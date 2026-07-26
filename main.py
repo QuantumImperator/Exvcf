@@ -1,6 +1,3 @@
-def main():
-    print("Hello from exvcf!")
+print("Hello from exvcf....!")
 
-
-if __name__ == "__main__":
-    main()
+# collect vcf data.
